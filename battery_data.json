@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"batteryHealthPercent": 95,
+		"chargeCyclesNum": 120,
+		"temperatureFahrenheit": 72
+	},
+	{
+		"id": 2,
+		"batteryHealthPercent": 90,
+		"chargeCyclesNum": 150,
+		"temperatureFahrenheit": 74
+	},
+	{
+		"id": 3,
+		"batteryHealthPercent": 45,
+		"chargeCyclesNum": 300,
+		"temperatureFahrenheit": 98
+	}
+]
